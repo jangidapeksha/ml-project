@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+ -e .
+
+
+# requirements.txt:
+
+# This file lists the external Python packages that your project depends on. 
+# In your case, it has the names of three packages (pandas, numpy, and seaborn) and one special line (-e .),
+#  which indicates that the current project should be installed in "editable" mode.
